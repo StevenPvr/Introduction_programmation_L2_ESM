@@ -1,0 +1,22 @@
+=== Résumé des exercices du TP2 ===
+Exécuté le : 2025-10-22 20:11:16.688117
+
+Ex1 Premier et dernier : Emma, Liam
+Ex2 Moyenne des notes : 12.2
+Ex3 Prénoms en majuscules :
+Ex4 Somme des carrés pairs : 220
+Ex5 Nom et note : Alice, 14
+Ex6 Sophia a une moyenne de 14.0
+Ex6 Clement a une moyenne de 11.0
+Ex6 Katarina a une moyenne de 14.0
+Ex7 Comptage des mots : {'je': 3, 'ne': 2, 'veux': 2, 'pas': 3, 'me': 1, 'lever': 1, 'aujourdhui': 1, 'nai': 1, 'envie': 1, 'daller': 1, 'travailler': 1, 'sortir': 1, 'dehors': 1}
+Ex8 Fusion des courses : {' pomme ': 3, ' pain ': 1, ' riz ': 3, ' yaourt ': 4}
+Ex9 Fréquence des lettres : [('a', 9), ('n', 9), ('je', 3), ('pas', 3), ('ne', 2), ('veux', 2), ('me', 1), ('lever', 1), ('aujourdhui', 1), ('nai', 1), ('envie', 1), ('daller', 1), ('travailler', 1), ('sortir', 1), ('dehors', 1), ('b', 1)]
+Ex10 Clara est la meilleure note, Bob est la moins bonne note
+Ex11 Valeur totale de l'inventaire : 32.0
+Ex12 Agrégation transactions : [('Clara', 20.0), ('Alice', 16.0), ('Bob', 7.0)]
+Ex13 Moyenne=11.642857142857142, Médiane=13.0, Mode=[3, 9, 13, 16]
+Ex14 Total pour la catégorie Hygiène : 7.699999999999999€
+Ex14 Total pour la catégorie Boissons : 6.2€
+Ex14 Total pour la catégorie Fruits : 2.6€
+Ex15 Prénoms nettoyés : ['Alice', 'Bob', 'Clara']
