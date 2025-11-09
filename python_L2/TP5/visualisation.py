@@ -97,7 +97,7 @@ def export_csv(fr):
     colonnes_existantes = [col for col in colonnes_utiles if col in fr.columns]
     fr_export = fr[colonnes_existantes]
     
-    os.makedirs("out", exist_ok=True)
-    fr_export.to_csv("out/france_top1_L2.csv", index=False)
-    print("Données exportées : out/france_top1_L2.csv")
+    os.makedirs("TP5/outputs", exist_ok=True)
+    fr_export.to_csv("TP5/outputs/france_top1_L2.csv", index=False)
+    print("Données exportées : TP5/outputs/france_top1_L2.csv")
 
