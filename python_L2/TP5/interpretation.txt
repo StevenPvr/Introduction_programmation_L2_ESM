@@ -1,0 +1,46 @@
+INTERPRÉTATION DES RÉSULTATS - PART DU TOP 1% EN FRANCE (1820-2023)
+
+1. ÉVOLUTION GLOBALE
+Sur la période observée de 1820 à 2023, la part du top 1% a globalement baissé.
+L'ordre de grandeur de cette évolution est de 8.27 points de pourcentage, passant de 20.40% en 1820 à 12.13% en 2023.
+Le maximum observé est de 23.27% en 1923 et le minimum de 6.98% en 1983.
+La moyenne globale sur l'ensemble de la période est de 12.88%, la médiane de 11.14%.
+L'écart-type de 4.53 points témoigne d'une variabilité importante autour de la tendance générale.
+
+2. PHASES HAUTE ET BASSE
+La période avec la plus haute concentration est 1820-1899 avec une moyenne de 20.37%.
+La période avec la plus faible concentration est 1981-2025 avec une moyenne de 10.20%.
+Les autres périodes montrent une transition progressive : 1900-1945 (18.49%) puis 1946-1980 (10.23%).
+La période 1946-1980, dite des Trente Glorieuses, marque une rupture nette avec une concentration divisée par deux par rapport au XIXe siècle.
+L'énergie abondante et pas chère (le pétrole) a permis une forte réduction des inégalités. La productivité a explosé, les prix ont baissé, car toutes choses égales par ailleurs, le besoin de ressources pour produire a drastiquement chuté.
+L'analyse de la moyenne mobile (mm3) permet d'identifier des cycles, avec un pic autour de 1923 (23.27%) et un creux autour de 1983 (6.98%).
+Les années récentes (2019-2023) montrent une légère remontée de la moyenne mobile, passant de 11.66% à 12.30%. La crise pandémique a créé des opportunités pour ceux qui avaient le capital pour investir sur les marchés financiers.
+
+
+3. TROUS D'ANNÉES
+Des trous d'années ont été détectés : 5 observations avec un écart supérieur à 1 an entre deux années consécutives.
+Ces écarts se concentrent au début de la série : 1820-1850 (30 ans), 1850-1880 (30 ans), 1880-1900 (20 ans), 1900-1910 (10 ans), 1910-1915 (5 ans).
+Ces écarts peuvent affecter la lecture des tendances à court terme mais n'impactent pas significativement l'analyse des tendances de long terme grâce à la moyenne mobile.
+À partir de 1915, les données sont annuelles, permettant une analyse plus fine des variations.
+
+4. EXPLICATION ÉCONOMIQUE PLAUSIBLE
+L'évolution de la part du top 1% en France sur deux siècles reflète les transformations structurelles de l'économie française.
+La période 1820-1899 correspond à l'industrialisation et à l'accumulation du capital, expliquant une concentration élevée autour de 20%.
+La baisse observée au XXe siècle peut être liée aux chocs des deux guerres mondiales et aux politiques redistributives mises en place après 1945.
+Notamment les demandes d'effort d'après guerre afin de reconstruire le pays avec un taux marginal de 90% sur les grandes fortunes.
+Les Trente Glorieuses (1946-1980) ont vu une réduction de la concentration grâce à la croissance économique partagée et au système de protection sociale, avec une moyenne de 10.23%.
+Depuis les années 1980, la mondialisation et les changements technologiques ont favorisé une légère stabilisation autour de 10.20%, mais sans retour aux niveaux du XIXe siècle.
+Les variations annuelles observées reflètent les cycles économiques et les politiques fiscales successives, avec des pics comme en 1923 (23.27%) et des creux comme en 1983 (6.98%).
+La moyenne mobile permet de distinguer ces tendances structurelles des fluctuations conjoncturelles, notamment les variations importantes observées en 1915-1916.
+Les périodes de crise économique tendent à augmenter temporairement la concentration avant des phases de redistribution, comme observé après les deux guerres mondiales.
+L'évolution récente (2019-2023) montre une légère remontée de 11.45% à 12.13%, suggérant une possible inflexion de tendance.
+Cette dynamique interroge sur l'efficacité des mécanismes redistributifs dans un contexte de mondialisation et de transformations technologiques.
+L'analyse des variations annuelles montre que les changements sont généralement progressifs plutôt que brutaux, avec des transitions sur plusieurs décennies.
+Le secteur de la tech, qui est en train d'exploser avec les investissements massifs dans l'intelligence artificielle pourrait entretenir cette augmentation des inégalités. On pourrait voir les premiers trillionnaires apparaître.
+
+5. Limites
+Il faut faire attention avec les statistiques sur les inégalités car elles peuvent prêter à confusion si les bases des statistiques ne sont pas maîtrisées.
+Une augmentation des inégalités ne veut pas nécessairement dire un appauvrissement des classes populaires. Le gâteau peut grossir mais tout le monde n'a pas une part équivalente.
+
+# Nota bene
+Il y a des centaines d'études sur le sujet. Écouter les économistes 5 minutes pourrait aider !
